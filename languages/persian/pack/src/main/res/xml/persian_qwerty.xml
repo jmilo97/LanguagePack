@@ -60,7 +60,7 @@
 
     <Row android:rowEdgeFlags="bottom">
         <Key ask:isFunctional="true" android:keyWidth="15%p" android:codes="-10" ask:longPressCode="-102" android:keyEdgeFlags="left"/>
-        <Key android:codes="1548" android:keyLabel="،" android:popupCharacters="&#1563;,;&#1614;&#1616;&#1615;&#1611;&#1613;&#1612;&#1619;&#1618;&#1617;&#1648;&#1622;"/>
+        <Key android:codes="1548" android:keyLabel="،" android:popupCharacters="&#1563;&#1620;&#1614;&#1616;&#1615;&#1611;&#1613;&#1612;&#1619;&#1618;&#1617;&#1648;&#1622;"/>
         <Key android:codes="8204" android:keyLabel=".|." android:popupCharacters="&#39;&#34;\u201c\u201e\u201d\u2018\u2019"/>
         <Key android:codes="32" android:keyWidth="30%p"/>
         <Key android:codes="1567" android:keyLabel="؟" android:popupCharacters="/@\u0026\u00bf\u00a1&#11822;&#8253;_-?"/>
